@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "example2",
-=======
-  "name": "example",
->>>>>>> c17a5b95f9f3570a50b49a59ee951f0e3582b5fa
   "version": "0.1.0",
   "private": true,
   "scripts": {
